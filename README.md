@@ -10,4 +10,4 @@ Items have to be shown:
 Product entity: 
 Image; Name; Description; Price;
 
-Demo link [https://hlazman.github.io/mate_test-task_3/]
+Demo link: https://hlazman.github.io/mate_test-task_3/
