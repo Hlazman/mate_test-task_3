@@ -15,7 +15,7 @@ const ProductCard = ({product}) => {
   };
 
   return (
-    <div className={classNames('card', { isPined })}>
+    <div className={classNames('products__card', { isPined })}>
       <img className="products__card__img" src={imageUrl} alt={name}/>
       <p className="products__card__title"> {name} </p>
       <p className="products__card__price"> {price} USD </p>
